@@ -1,0 +1,11 @@
+discord~=1.7.3
+python-dotenv~=0.19.2
+requests~=2.27.1
+numpy~=1.22.3
+tensorflow~=2.8.0
+symspellpy~=6.7.6
+spacy~=3.2.4
+tqdm~=4.64.0
+discord.py[voice]
+aiohttp~=3.7.4.post0
+keras~=2.8.0
